@@ -11,7 +11,7 @@ USE
 # หน้าแรก
 เข้าสู่ระบบและเก็บข้อมูลด้วย Firebase : Authentication
 
-![enter image description here](https://imgur.com/ZAYQEmR.jpg =250x500)![enter image description here](https://imgur.com/lCsZb9H.jpg =250x500)![enter image description here](https://imgur.com/JcYIsH9.jpg =250x500)
+![enter image description here](https://imgur.com/ZAYQEmR.jpg )![enter image description here](https://imgur.com/lCsZb9H.jpg =250x500)![enter image description here](https://imgur.com/JcYIsH9.jpg =250x500)
 # การวินิจฉัย
 ทำการวิเคราะห์ด้วย AI Decision Tree และเก็บข้อมูลด้วย Firebase : Realtime Database
 

@@ -21,7 +21,7 @@ USE
 # ติดตามอาการประจำวัน
 เก็บข้อมูลประจำวันใว้ใน Firebase: Realtime Database แล้วนำมาพล็อตข้อมูลเป็นกราฟ
 
-<img src="https://imgur.com/leqKoKR.jpg" alt="รูปภาพ" width="250" height="500"><img src="https://imgur.com/SZkdxkG.jpg" alt="รูปภาพ" width="250" height="500"><img src="https://imgur.com/dQrUc0.jpg" alt="รูปภาพ" width="250" height="500">
+<img src="https://imgur.com/leqKoKR.jpg" alt="รูปภาพ" width="250" height="500"><img src="https://imgur.com/SZkdxkG.jpg" alt="รูปภาพ" width="250" height="500"><img src="https://imgur.com/AdQrUc0.jpg" alt="รูปภาพ" width="250" height="500">
 
 # ระบบเพิ่มเพื่อน
 
